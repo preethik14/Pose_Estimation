@@ -1,0 +1,11 @@
+#Camera facing machines
+H = np.array([[ 2.71503172e-01,  3.08870838e-04, -1.75678500e+00],
+ [-1.76194071e-02,  1.02325484e-01,  1.51243394e-01],
+ [ 3.21768108e-03, -1.06734408e-01,  1.00000000e+00]], dtype=np.float32)
+Root Mean Square Reprojection error: 2.0709 pixels
+
+# Camera facing ARTgarage Entrance
+H = np.array([[ 0.28202312, -0.01516183, -0.17779014],
+ [ 0.01906425, -0.138645,    0.2874748 ],
+ [-0.04487842,  0.21806058,  1.        ]], dtype=np.float32)
+#Root Mean Square Reprojection error: 1.4425 pixels
